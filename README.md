@@ -1,6 +1,6 @@
 
 
-#*Identificación de patrones de evasión tributaria en Colombia mediante técnicas de aprendizaje no supervisado*
+# *Identificación de patrones de evasión tributaria en Colombia mediante técnicas de aprendizaje no supervisado*
 
 ### *Integrantes*
 
